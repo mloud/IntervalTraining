@@ -12,6 +12,9 @@ public class SettingsController : MonoBehaviour
 	}
 
 	[SerializeField]
+	GameObject presetPrefab;
+
+	[SerializeField]
 	Button btnHours0;
 
 	[SerializeField]
